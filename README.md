@@ -1,5 +1,4 @@
-# Gringo Audio Plugins — Releases
+# Gringo Audio — Plugin Releases
 
-Public release feed for Gringo Audio plugins. `manifest.json` drives each
-plugin's in-app update banner (one sibling key per product); installers are
-attached to tagged GitHub Releases (`<product>-vX.Y.Z`).
+Official downloads and update feed for Gringo Audio plugins.
+Get your license and learn more at [gringo-audio.com](https://gringo-audio.com).
