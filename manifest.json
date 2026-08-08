@@ -3,12 +3,14 @@
     "version": "0.3.0",
     "release_date": "2026-08-07",
     "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.3.0/MagicAcousticGuitars-0.3.0-mac.pkg",
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.3.0/MagicAcousticGuitars-0.3.0-win.exe",
     "info_url": "https://gringo-audio.com"
   },
   "magic-bronze": {
     "version": "0.3.0",
     "release_date": "2026-08-07",
     "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.3.0/MagicAcousticGuitars-0.3.0-mac.pkg",
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.3.0/MagicAcousticGuitars-0.3.0-win.exe",
     "info_url": "https://gringo-audio.com"
   }
 }
