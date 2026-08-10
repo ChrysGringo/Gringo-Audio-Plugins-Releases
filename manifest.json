@@ -1,14 +1,14 @@
 {
   "magic-nylon": {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "release_date": "2026-08-10",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.6.1/MagicAcousticGuitars-0.6.1-mac.pkg",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.7.0/MagicAcousticGuitars-0.7.0-mac.pkg",
     "info_url": "https://gringo-audio.com"
   },
   "magic-bronze": {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "release_date": "2026-08-10",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.6.1/MagicAcousticGuitars-0.6.1-mac.pkg",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.7.0/MagicAcousticGuitars-0.7.0-mac.pkg",
     "info_url": "https://gringo-audio.com"
   }
 }
