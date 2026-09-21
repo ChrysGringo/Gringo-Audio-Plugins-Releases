@@ -1,17 +1,15 @@
 {
   "magic-nylon": {
-    "version": "0.9.0",
-    "release_date": "2026-08-24",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.9.0/MagicAcousticGuitars-0.9.0-mac.pkg",
-    "info_url": "https://gringo-audio.com",
-    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.9.0/MagicAcousticGuitars-0.9.0-win.exe"
+    "version": "0.10.0",
+    "release_date": "2026-09-21",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.10.0/MagicAcousticGuitars-0.10.0-mac.pkg",
+    "info_url": "https://gringo-audio.com"
   },
   "magic-bronze": {
-    "version": "0.9.0",
-    "release_date": "2026-08-24",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.9.0/MagicAcousticGuitars-0.9.0-mac.pkg",
-    "info_url": "https://gringo-audio.com",
-    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.9.0/MagicAcousticGuitars-0.9.0-win.exe"
+    "version": "0.10.0",
+    "release_date": "2026-09-21",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-acoustic-guitars-v0.10.0/MagicAcousticGuitars-0.10.0-mac.pkg",
+    "info_url": "https://gringo-audio.com"
   },
   "magic-vocals-pro": {
     "version": "0.6.0",
