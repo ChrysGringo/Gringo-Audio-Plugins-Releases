@@ -12,10 +12,10 @@
     "info_url": "https://gringo-audio.com"
   },
   "magic-vocals-pro": {
-    "version": "0.10.0",
-    "release_date": "2026-10-12",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.10b/MagicVocalsPro-0.10b-mac.pkg",
+    "version": "0.9.0",
+    "release_date": "2026-10-11",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.9b/MagicVocalsPro-0.9b-mac.pkg",
     "info_url": "https://gringo-audio.com",
-    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.10b/MagicVocalsPro-0.10b-win.exe"
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.9b/MagicVocalsPro-0.9b-win.exe"
   }
 }
