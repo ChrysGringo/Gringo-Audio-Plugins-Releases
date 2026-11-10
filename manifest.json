@@ -26,5 +26,12 @@
     "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.13b/MagicVocalsPro-0.13b-mac.pkg",
     "info_url": "https://gringo-audio.com",
     "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.13b/MagicVocalsPro-0.13b-win.exe"
+  },
+  "magic-mastering": {
+    "version": "1.0.0",
+    "release_date": "2026-11-10",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-mastering-v1.0.0/MagicMastering-1.0.0-mac.pkg",
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-mastering-v1.0.0/MagicMastering-1.0.0-win.exe",
+    "info_url": "https://gringo-audio.com/magic-mastering"
   }
 }
