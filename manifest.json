@@ -21,10 +21,10 @@
     "info_url": "https://gringo-audio.com/magic-dyneq"
   },
   "magic-vocals-pro": {
-    "version": "0.12.0",
-    "release_date": "2026-10-13",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.12b/MagicVocalsPro-0.12b-mac.pkg",
+    "version": "0.13.0",
+    "release_date": "2026-11-10",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.13b/MagicVocalsPro-0.13b-mac.pkg",
     "info_url": "https://gringo-audio.com",
-    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.12b/MagicVocalsPro-0.12b-win.exe"
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-vocals-pro-v0.13b/MagicVocalsPro-0.13b-win.exe"
   }
 }
