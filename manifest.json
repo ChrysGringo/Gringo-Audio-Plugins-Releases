@@ -20,6 +20,13 @@
     "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-dyneq-v1.1.0/MagicDynEQ-1.1.0-win.exe",
     "info_url": "https://gringo-audio.com/magic-dyneq"
   },
+  "magic-buscomp": {
+    "version": "1.1.1",
+    "release_date": "2026-11-19",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-buscomp-v1.1.1/MagicBusComp-1.1.1-mac.pkg",
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-buscomp-v1.1.1/MagicBusComp-1.1.1-win.exe",
+    "info_url": "https://gringo-audio.com/magic-buscomp"
+  },
   "magic-vocals-pro": {
     "version": "0.13.0",
     "release_date": "2026-11-10",
