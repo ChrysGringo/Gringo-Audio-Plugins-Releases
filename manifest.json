@@ -42,10 +42,10 @@
     "info_url": "https://gringo-audio.com/magic-mastering"
   },
   "magic-electric-guitars": {
-    "version": "1.1.1",
-    "release_date": "2026-11-19",
-    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-electric-guitars-v1.1.1/MagicElectricGuitars-1.1.1-mac.pkg",
-    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-electric-guitars-v1.1.1/MagicElectricGuitars-1.1.1-win.exe",
+    "version": "1.2.0",
+    "release_date": "2026-11-25",
+    "mac_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-electric-guitars-v1.2.0/MagicElectricGuitars-1.2.0-mac.pkg",
+    "win_url": "https://github.com/ChrysGringo/Gringo-Audio-Plugins-Releases/releases/download/magic-electric-guitars-v1.2.0/MagicElectricGuitars-1.2.0-win.exe",
     "info_url": "https://gringo-audio.com/magic-electric-guitars"
   }
 }
